@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andrea Mungari andrea.mungari@gmail.com @Triazza
 
 # THANKS
 
