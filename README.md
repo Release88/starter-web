@@ -13,3 +13,7 @@ Altra parte del file readme
 Altra parte ancora
 
 ## How to contribute
+
+### Copyright
+
+2014 Git.Training.
