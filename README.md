@@ -10,4 +10,6 @@ Altra parte del file readme
 
 ## Deployment
 
+Altra parte ancora
+
 ## How to contribute
